@@ -6,5 +6,5 @@
 
 ## TODO
 
-- [x]**colonne 1/3 - 2/3**
-- []mettere menu navigazione
+- [1]**colonne 1/3 - 2/3**
+- [2]**mettere menu navigazione**
